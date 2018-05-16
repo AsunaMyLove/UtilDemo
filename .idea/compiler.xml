@@ -9,5 +9,8 @@
         <module name="UtilDemo" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="UtilDemo" target="1.8" />
+    </bytecodeTargetLevel>
   </component>
 </project>
